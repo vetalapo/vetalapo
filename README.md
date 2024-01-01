@@ -14,4 +14,4 @@ Saving the World... on a budget.
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vetalapo&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 
-<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif">
